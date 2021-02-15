@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #2980b9;
+}
+
+span#points {
+    font-size: 2.5rem;
+    font-family: Helvetica, sans-serif;
+    color: #fff;
+    font-weight: 200;
+    padding: 1rem;
+    width: 200px;
+    text-align: center;
+    margin: 1rem 0;
+    background-color: #34495e54;
+}
+
+#snakeGame {
+    border: 10px solid #34495e;
+}
